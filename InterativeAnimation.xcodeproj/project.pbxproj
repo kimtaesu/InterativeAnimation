@@ -14,6 +14,7 @@
 		BD4EEA50230A21F000F76A09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD4EEA4F230A21F000F76A09 /* Assets.xcassets */; };
 		BD4EEA53230A21F000F76A09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD4EEA51230A21F000F76A09 /* LaunchScreen.storyboard */; };
 		BD4EEA5E230A21F000F76A09 /* InterativeAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4EEA5D230A21F000F76A09 /* InterativeAnimationTests.swift */; };
+		BD4EEA69230A281C00F76A09 /* IntroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4EEA68230A281C00F76A09 /* IntroViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		BD4EEA59230A21F000F76A09 /* InterativeAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InterativeAnimationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD4EEA5D230A21F000F76A09 /* InterativeAnimationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterativeAnimationTests.swift; sourceTree = "<group>"; };
 		BD4EEA5F230A21F000F76A09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD4EEA68230A281C00F76A09 /* IntroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				BD4EEA51230A21F000F76A09 /* LaunchScreen.storyboard */,
 				BD4EEA54230A21F000F76A09 /* Info.plist */,
 				BD4EEA4C230A21EE00F76A09 /* InterativeAnimation.xcdatamodeld */,
+				BD4EEA68230A281C00F76A09 /* IntroViewController.swift */,
 			);
 			path = InterativeAnimation;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				BD4EEA48230A21EE00F76A09 /* ViewController.swift in Sources */,
 				BD4EEA4E230A21EE00F76A09 /* InterativeAnimation.xcdatamodeld in Sources */,
 				BD4EEA46230A21EE00F76A09 /* AppDelegate.swift in Sources */,
+				BD4EEA69230A281C00F76A09 /* IntroViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
