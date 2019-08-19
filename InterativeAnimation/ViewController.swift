@@ -51,7 +51,7 @@ class ViewController: UIViewController {
 
     }
     @objc
-    func pan(_ g: UIScreenEdgePanGestureRecognizer) {
+    func pan(_ g: UIPanGestureRecognizer) {
         switch g.state {
         case .began:
             if interactiveAnimator.isRunning {
