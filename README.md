@@ -4,4 +4,4 @@
 ![](/Demo.gif)
 
 # Blog
-[](https://hucet.tistory.com/18)
+[iOS 사용성 최대로 올려보자! (Part3) - Interactive Animation](https://hucet.tistory.com/18)
