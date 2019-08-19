@@ -1,7 +1,7 @@
 # InterativeAnimation
 
 # Demo
-![](ScreenShot/Demo.gif)
+![](/Demo.gif)
 
 # Blog
 [](https://hucet.tistory.com/18)
